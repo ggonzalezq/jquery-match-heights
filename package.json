@@ -1,0 +1,40 @@
+{
+  "name": "jquery-match-heights",
+  "version": "1.0.0",
+  "description": "A simple jQuery for match heights on any HTML element",
+  "main": "jquery-match-heights.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ggonzalezq/jquery-match-heights.git"
+  },
+  "authors": [
+    "Gabriel Gonzalez <gabrielgonzalezq@gmail.com>"
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ggonzalezq/jquery-match-heights/issues"
+  },
+  "homepage": "https://github.com/ggonzalezq/jquery-match-heights#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "babel-core": "^6.26.0",
+    "babel-preset-env": "^1.6.1",
+    "del": "^3.0.0",
+    "eslint-config-airbnb": "^16.1.0",
+    "eslint-plugin-import": "^2.11.0",
+    "eslint-plugin-jsx-a11y": "^6.0.3",
+    "eslint-plugin-react": "^7.7.0",
+    "gulp": "^3.9.1",
+    "gulp-babel": "^7.0.1",
+    "gulp-concat": "^2.6.1",
+    "gulp-eslint": "^4.0.2",
+    "gulp-notify": "^3.2.0",
+    "gulp-plumber": "^1.2.0",
+    "gulp-sourcemaps": "^2.6.4",
+    "node-notifier": "^5.2.1",
+    "run-sequence": "^2.2.1"
+  }
+}
